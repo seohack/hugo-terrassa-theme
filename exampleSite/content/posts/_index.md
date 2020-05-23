@@ -1,8 +1,11 @@
 ---
-title: "Blog"
-description: ""
+title: Blog
+description: ''
 images: []
-draft: false
-menu: main
-weight: 2
+weight: "2"
+menu:
+  main:
+    name: Bitacora
+    weight: 1
+
 ---

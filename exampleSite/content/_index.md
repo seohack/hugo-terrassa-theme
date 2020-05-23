@@ -6,7 +6,7 @@ images:
 weight: "1"
 menu:
   main:
-    weight: 1
+    weight: 4
 
 ---
 # Terrassa
